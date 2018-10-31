@@ -70,7 +70,6 @@ function mobilePhone(){
     canvas.ontouchend = function(){
         using = false;
     }
-
 }
 
 
