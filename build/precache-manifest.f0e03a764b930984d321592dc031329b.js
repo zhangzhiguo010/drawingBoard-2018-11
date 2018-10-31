@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/drawingBoard-2018-11/build/static/css/main.02b4cd92.chunk.css"
   },
   {
-    "revision": "cb17999fbc9026f0cbb39060e7c1df63",
+    "revision": "2e38b2cf3821e23c51e520a6cdd12d63",
     "url": "/drawingBoard-2018-11/build/index.html"
   }
 ];

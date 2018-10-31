@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/drawingBoard-2018-11/build/precache-manifest.9cee25a36301bf3cd6c0f38f563c3ed9.js"
+  "/drawingBoard-2018-11/build/precache-manifest.f0e03a764b930984d321592dc031329b.js"
 );
 
 workbox.clientsClaim();
